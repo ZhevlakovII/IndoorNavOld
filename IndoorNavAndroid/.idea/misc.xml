@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/ARIndoorVer0.1/unityLibrary/src/main/res/drawable/back_icon_24dp_white.xml" value="0.212" />
+        <entry key="..\:/Dev/ARIndoorVer0.1/unityLibrary/src/main/res/layout/main_activity.xml" value="0.2046875" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/ar_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/arrow_forward_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/arrow_sideway_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/back_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/back_icon_24dp.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/back_icon_24dp_white.xml" value="0.212" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/bookmarks_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/history_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/inhomogeneous_pic.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/map_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/navigate_dot_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/navigate_dot_icon_for_rv.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/navigate_dot_icon_grayscale.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/settings_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-mdpi/stop_break_icon.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/card_view.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/ic_search.xml" value="0.263" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/search_icon.xml" value="0.2025" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/search_icon_24dp.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/search_rounded_edittext.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/splash_background.xml" value="0.3015" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/user_point.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/user_point_grayscale.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/drawable/userpoint.xml" value="0.3005" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/armode_fragment.xml" value="0.2" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/bookmarks_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/fragment_dashboard.xml" value="0.358695652173913" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/history_rv_item.xml" value="0.35643115942028986" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/main_activity.xml" value="0.5402916346891788" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/map_fragment.xml" value="0.33" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/points_enter_fragment.xml" value="0.25" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/searced_rv_item.xml" value="0.35643115942028986" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/search_fragment.xml" value="0.33" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/searched_rv_item.xml" value="0.6818181818181818" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/settings_fragment.xml" value="0.358695652173913" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/layout/test.xml" value="0.33" />
+        <entry key="..\:/Dev/InDoorNavigationAR/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,101 @@
+[
+  {
+    "locationId": 1,
+    "name": "Bedroom Y",
+    "ruName": "Комната Y",
+    "coordX1": 0.35,
+    "coordY1": 0.07,
+    "coordX2": 0.64,
+    "coordY2": 0.52,
+    "centerX": 0.48,
+    "centerY": 0.27
+  },
+  {
+    "locationId": 2,
+    "name": "Bedroom GM",
+    "ruName": "Комната GM",
+    "coordX1": 0.36,
+    "coordY1": 0.64,
+    "coordX2": 0.6,
+    "coordY2": 0.95,
+    "centerX": 0.48,
+    "centerY": 0.77
+  },
+  {
+    "locationId": 3,
+    "name": "Bedroom M",
+    "ruName": "Комната M",
+    "coordX1": 0.65,
+    "coordY1": 0.18,
+    "coordX2": 0.93,
+    "coordY2": 0.52,
+    "centerX": 0.74,
+    "centerY": 0.40
+  },
+  {
+    "locationId": 4,
+    "name": "Living Room",
+    "ruName": "Зал",
+    "coordX1": 0.61,
+    "coordY1": 0.54,
+    "coordX2": 0.93,
+    "coordY2": 0.95,
+    "centerX": 0.74,
+    "centerY": 0.73
+  },
+  {
+    "locationId": 5,
+    "name": "Balcony",
+    "ruName": "Балкон",
+    "coordX1": 0.67,
+    "coordY1": 0.04,
+    "coordX2": 0.93,
+    "coordY2": 0.15,
+    "centerX": 0.75,
+    "centerY": 0.10
+  },
+  {
+    "locationId": 6,
+    "name": "Corridor",
+    "ruName": "Коридор",
+    "coordX1": 0.06,
+    "coordY1": 0.54,
+    "coordX2": 0.60,
+    "coordY2": 0.63,
+    "centerX": 0.42,
+    "centerY": 0.59
+  },
+  {
+    "locationId": 7,
+    "name": "Kitchen",
+    "ruName": "Кухня",
+    "coordX1": 0.06,
+    "coordY1": 0.77,
+    "coordX2": 0.34,
+    "coordY2": 0.95,
+    "centerX": 0.25,
+    "centerY": 0.90
+  },
+  {
+    "locationId": 8,
+    "name": "Toilet",
+    "ruName": "Туалет",
+    "coordX1": 0.17,
+    "coordY1": 0.64,
+    "coordX2": 0.26,
+    "coordY2": 0.75,
+    "centerX": 0.20,
+    "centerY": 0.68
+  },
+  {
+    "locationId": 9,
+    "name": "Bathroom",
+    "ruName": "Ванная",
+    "coordX1": 0.06,
+    "coordY1": 0.64,
+    "coordX2": 0.16,
+    "coordY2": 0.75,
+    "centerX": 0.10,
+    "centerY": 0.68
+  }
+]

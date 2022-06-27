@@ -1,0 +1,25 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+
+        flatDir {
+            dirs "..\\ARIndoorVer0.1\\unityLibrary\\libs"
+        }
+    }
+}
+rootProject.name = "InDoorNavigationAR"
+include ':app'
+include ':unityLibrary'
+include ':launcher'
+project(':unityLibrary').projectDir=new File('..\\ARIndoorVer0.1\\unityLibrary')
+project(':launcher').projectDir=new File('..\\ARIndoorVer0.1\\launcher')
+

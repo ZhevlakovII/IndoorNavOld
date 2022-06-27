@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Basic colors-->
+    <color name="interface_primary">#4B50BF</color>
+    <color name="interface_secondary">#333554</color>
+    <color name="interface_tertiary">#B4B6EA</color>
+    <color name="text_primary">#222222</color>
+    <color name="text_secondary">#505050</color>
+    <color name="basic_white">#FFFFFFFF</color>
+    <color name="border">#C5C5C5</color>
+    <color name="border_extra">#BABABA</color>
+    <color name="grayscale_icons">#E3E3E3</color>
+
+    <!--Picture colors-->
+    <color name="pic_green">#6DD7A5</color>
+    <color name="pic_red">#E60A3B</color>
+    <color name="pic_blue">#5497CC</color>
+    <color name="pic_purple">#9D37D8</color>
+</resources>

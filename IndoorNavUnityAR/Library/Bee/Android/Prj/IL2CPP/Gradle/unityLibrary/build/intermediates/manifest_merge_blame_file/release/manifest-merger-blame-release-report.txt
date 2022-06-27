@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="24"
+9-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:3-52
+12-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:17-49
+13
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:3-65
+14-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:20-62
+15
+16    <uses-feature
+16-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-88
+17        android:name="android.hardware.touchscreen"
+17-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-60
+18        android:required="false" />
+18-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:61-85
+19    <uses-feature
+19-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-99
+20        android:name="android.hardware.touchscreen.multitouch"
+20-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-71
+21        android:required="false" />
+21-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:72-96
+22    <uses-feature
+22-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-108
+23        android:name="android.hardware.touchscreen.multitouch.distinct"
+23-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:17-80
+24        android:required="false" />
+24-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:81-105
+25
+26    <uses-permission android:name="android.permission.CAMERA" />
+26-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-63
+26-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:20-60
+27
+28    <uses-feature
+28-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-85
+29        android:name="android.hardware.camera.ar"
+29-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-58
+30        android:required="true" />
+30-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:59-82
+31    <uses-feature
+31-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-83
+32        android:name="com.google.ar.core.depth"
+32-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-56
+33        android:required="true" />
+33-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:57-80
+34
+35    <application android:extractNativeLibs="true" >
+35-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-19:17
+35-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+36        <activity
+36-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:5-11:16
+37            android:name="com.unity3d.player.UnityPlayerActivity"
+37-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:15-68
+38            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+38-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:182-363
+39            android:exported="true"
+39-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:435-458
+40            android:hardwareAccelerated="false"
+40-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:399-434
+41            android:launchMode="singleTask"
+41-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:150-181
+42            android:resizeableActivity="false"
+42-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:364-398
+43            android:screenOrientation="fullSensor"
+43-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:111-149
+44            android:theme="@style/UnityThemeSelector" >
+44-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:69-110
+45            <intent-filter>
+45-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:7-8:23
+46                <action android:name="android.intent.action.MAIN" />
+46-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:9-61
+46-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-58
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:9-69
+48-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:19-66
+49            </intent-filter>
+50
+51            <meta-data
+51-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:7-82
+52                android:name="unityplayer.UnityActivity"
+52-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:18-58
+53                android:value="true" />
+53-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:59-79
+54            <meta-data
+54-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:7-78
+55                android:name="android.notch_support"
+55-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:18-54
+56                android:value="true" />
+56-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:55-75
+57        </activity>
+58
+59        <meta-data
+59-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-69
+60            android:name="unity.splash-mode"
+60-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+61            android:value="0" />
+61-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:49-66
+62        <meta-data
+62-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-74
+63            android:name="unity.splash-enable"
+63-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-50
+64            android:value="True" />
+64-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:51-71
+65        <meta-data
+65-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-78
+66            android:name="unity.launch-fullscreen"
+66-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-54
+67            android:value="True" />
+67-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:55-75
+68        <meta-data
+68-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-84
+69            android:name="unity.allow-resizable-window"
+69-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-59
+70            android:value="False" />
+70-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:60-81
+71        <meta-data
+71-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
+72            android:name="notch.config"
+72-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
+73            android:value="portrait|landscape" />
+73-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
+74        <meta-data
+74-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-88
+75            android:name="unityplayer.SkipPermissionsDialog"
+75-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-64
+76            android:value="true" />
+76-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:65-85
+77        <meta-data
+77-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-77
+78            android:name="com.google.ar.core"
+78-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-49
+79            android:value="required" />
+79-->P:\Dev\Unity\InDoorNavigationARUnityAddOn\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:50-74
+80    </application>
+81
+82</manifest>
